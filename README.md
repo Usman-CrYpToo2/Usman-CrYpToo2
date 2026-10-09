@@ -9,8 +9,8 @@ Smart contract security researcher. I audit and build DeFi protocols on Solana, 
 **Projects**
 
 - [Aegis Protocol](https://github.com/Usman-CrYpToo2/aegis-protocol): RWA launchpad on Solana. A compliance-restricted Token-2022 security in escrow, a 1:1 wrapper trading on Meteora's Dynamic Bonding Curve. [Live on devnet](https://aegis-rwa.netlify.app).
-- [Ephor Protocol](https://github.com/Usman-CrYpToo2/ephor-protocol): curated yield vault on Somnia where on-chain LLM agents advise and EVM invariants decide.
 - [MultiX Finance](https://github.com/Usman-CrYpToo2/multix-finance): multi-currency CDP with synthetic GBP, USD, EUR and PKR, a hybrid oracle and Hyperlane bridging.
+- [Ephor Protocol](https://github.com/Usman-CrYpToo2/ephor-protocol): curated yield vault on Somnia where on-chain LLM agents advise and EVM invariants decide.
 - [ethkey-noir](https://github.com/Usman-CrYpToo2/ethkey-noir): secp256k1 keys and Ethereum address derivation for Noir 1.0.
 
 **Research**
